@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1dddb1c5-929f-44b7-8b18-6ccb48132f20" name="WebserverPHP" url="https://10.6.113.110">
+        <fileTransfer rootFolder="/html" accessType="SFTP" host="10.6.113.110" port="22" sshConfigId="3993ebee-ee68-4a03-9e87-19e2ebdb7a85" sshConfig="devuser@10.6.113.110:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
